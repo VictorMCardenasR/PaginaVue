@@ -1,5 +1,13 @@
 import Vue from 'vue'
 import App from './App.vue'
+import 'bulma/css/bulma.css';
+
+// Importa el archivo de CSS de Bootstrap
+import 'bootstrap/dist/css/bootstrap.css';
+
+// Importa el archivo JavaScript de Bootstrap
+import 'bootstrap/dist/js/bootstrap.bundle';
+
 
 Vue.config.productionTip = false
 
